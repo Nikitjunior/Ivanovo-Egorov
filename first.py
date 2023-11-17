@@ -1,2 +1,1 @@
-print(123)
-print(321)
+print("My first git-repo")
